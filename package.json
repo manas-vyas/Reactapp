@@ -12,6 +12,9 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
+      "publishConfig": {
+	     "registry": "http://172.31.6.38:8081/repository/custom-npm-repo-group/"
+      },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
