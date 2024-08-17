@@ -13,7 +13,7 @@
     "web-vitals": "^1.1.1"
   },
       "publishConfig": {
-	     "registry": "http://172.31.6.38:8081/repository/custom-npm-artifact-repo/"
+	     "registry": "http://172.31.32.42:8081/repository/custom-npm-artifact-repo/"
       },
   "scripts": {
     "start": "react-scripts start",
